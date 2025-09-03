@@ -1,0 +1,3 @@
+/home/cares/Documents/StrokeRehabProject/apriltag/build/CMakeFiles/rebuild_cache.dir
+/home/cares/Documents/StrokeRehabProject/apriltag/build/CMakeFiles/edit_cache.dir
+/home/cares/Documents/StrokeRehabProject/apriltag/build/CMakeFiles/apriltag_tracking.dir
